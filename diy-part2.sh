@@ -17,6 +17,6 @@
 #sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # Modify hostname
-sed -i 's/OpenWrt/OpenWrt-xor/g' package/base-files/files/bin/config_generate
+sed -i 's/ImmortalWrt/Immortal-xor/g' package/base-files/files/bin/config_generate
 
 #sed -i 's/disabled/okay/g' /workdir/openwrt/target/linux/ramips/dts/mt7628an_xiaomi_mi-router-4c.dts
